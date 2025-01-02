@@ -13,7 +13,6 @@
 <br>
 (3) Market price trends for produce.
 <br>
-<br>
 <b>Guidelines:</b>
 <br>
 (1) Use IoT sensors for real-time field data.
