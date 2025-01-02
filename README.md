@@ -4,14 +4,15 @@
 <b>My Theme Is Tech For Social Good.</b>
 <br>
 <br>
-And I Have Chosen Smart Farming Assistant For My Project.
+For This Event I Have Chosen <b><u>Smart Farming Assistant</u></b> For My Project.
 <br>
-
-<b> Smart Farming Assistant</b>
+<br>
+<h2><b>Smart Farming Assistant</b></h2>
 <br>
 Objective: Assist small-scale farmers with data-driven insights to improve crop yield.
 <br>
 <b>Features:<b/>
+<br>
 <br>
 (1) Weather predictions and irrigation reminders.
 <br>
@@ -20,6 +21,7 @@ Objective: Assist small-scale farmers with data-driven insights to improve crop 
 (3) Market price trends for produce.
 <br>
 <b>Guidelines:</b>
+<br>
 <br>
 (1) Use IoT sensors for real-time field data.
 <br>
