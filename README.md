@@ -1,18 +1,18 @@
-# Marghzaiii-2025
+# Margazhiii-2025
 
 <br>
-<b>My Theme Is Tech For Social Good.</b>
+<b>My Theme For HackSprint|Technicals|Margazhi Event Is Tech For Social Good.</b>
 <br>
 <br>
-For This Event I Have Chosen <b><u>Smart Farming Assistant</u></b> For My Project.
+<b>For This Event I Have Chosen <b><u>Smart Farming Assistant</u></b> As My Project.</b>
 <br>
 <br>
 <h2><b>Smart Farming Assistant</b></h2>
 <br>
-Objective: Assist small-scale farmers with data-driven insights to improve crop yield.
+<b>Objective: Assist small-scale farmers with data-driven insights to improve crop yield.</b>
 <br>
-<b>Features<b/>:
 <br>
+<b>Features:<b/>
 <br>
 (1) Weather predictions and irrigation reminders.
 <br>
@@ -22,7 +22,6 @@ Objective: Assist small-scale farmers with data-driven insights to improve crop 
 <br>
 <br>
 <b>Guidelines:</b>
-<br>
 <br>
 (1) Use IoT sensors for real-time field data.
 <br>
