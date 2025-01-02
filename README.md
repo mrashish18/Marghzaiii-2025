@@ -5,7 +5,6 @@
 <h2><b>Smart Farming Assistant</b></h2>
 <b>Objective: Assist small-scale farmers with data-driven insights to improve crop yield.</b>
 <br>
-<br>
 <b>Features:<b/>
 <br>
 (1) Weather predictions and irrigation reminders.
