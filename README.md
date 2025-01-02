@@ -11,7 +11,7 @@ For This Event I Have Chosen <b><u>Smart Farming Assistant</u></b> For My Projec
 <br>
 Objective: Assist small-scale farmers with data-driven insights to improve crop yield.
 <br>
-<b>Features:<b/>
+<b>Features<b/>:
 <br>
 <br>
 (1) Weather predictions and irrigation reminders.
@@ -19,6 +19,7 @@ Objective: Assist small-scale farmers with data-driven insights to improve crop 
 (2) Crop disease detection using image recognition.
 <br>
 (3) Market price trends for produce.
+<br>
 <br>
 <b>Guidelines:</b>
 <br>
