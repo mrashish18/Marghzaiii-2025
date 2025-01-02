@@ -1,6 +1,4 @@
 # Margazhiii-2025
-
-<br>
 <h3><b>My Theme For HackSprint|Technicals|Margazhi Event Is Tech For Social Good.</b></h3>
 <b>For This Event I Have Chosen <u> Smart Farming Assistant </u> As My Project.</b>
 <br>
