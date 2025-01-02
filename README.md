@@ -1,4 +1,4 @@
 # Marghzaiii-2025
 
 <br>
-My Theme Is Tech For Good Social
+My Theme Is Tech For Social Good.
