@@ -6,7 +6,6 @@
 <b>Objective: Assist small-scale farmers with data-driven insights to improve crop yield.</b>
 <br>
 <h4><b>Features:<b/></h4>
-<br>
 (1) Weather predictions and irrigation reminders.
 <br>
 (2) Crop disease detection using image recognition.
@@ -14,7 +13,6 @@
 (3) Market price trends for produce.
 <br>
 <h4><b>Guidelines:</b></h4>
-<br>
 (1) Use IoT sensors for real-time field data.
 <br>
 (2) Integrate TensorFlow for disease detection.
